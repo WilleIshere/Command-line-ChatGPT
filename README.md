@@ -5,5 +5,6 @@
 
 # requirements
 ```python
+python3
 pip install openai
 ```
